@@ -45,6 +45,7 @@ interface DeveloperProfile {
   name: string;
   major: string;
   coreSkills: string[];
+  backendAndBaaS: string[];
   currentMission: string;
   coffeeToCodeConverter: boolean;
 }
@@ -55,9 +56,10 @@ const firmas: DeveloperProfile = {
   coreSkills: [
     "Full-Stack Web Development",
     "Cross-Platform Mobile Apps",
-    "RESTful API & Microservices",
+    "RESTful API & Realtime Database",
     "Modern UI/UX Implementation"
   ],
+  backendAndBaaS: ["Supabase", "Firebase", "MongoDB", "MySQL (XAMPP)"],
   currentMission: "Building high-performance, real-world digital solutions",
   coffeeToCodeConverter: true
 };
@@ -70,17 +72,22 @@ const firmas: DeveloperProfile = {
 <div align="center">
 
   <p><strong>Languages & Core</strong></p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,php,html,css" />
   
   <br/><br/>
 
-  <p><strong>Frameworks & Ecosystem</strong></p>
+  <p><strong>Frameworks & Frontend/Mobile</strong></p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,nodejs,express" />
   
   <br/><br/>
 
-  <p><strong>Database, Cloud & Tools</strong></p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,figma,postman,vscode" />
+  <p><strong>Database, Cloud & BaaS</strong></p>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,mysql,postgres" />
+
+  <br/><br/>
+
+  <p><strong>DevOps, Tools & Environment</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,docker,vscode" />
 
 </div>
 
