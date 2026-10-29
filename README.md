@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Header Banner dari Repo -->
-  <img src="header.png" alt="Firmas Habibi Header Banner" width="100%" />
+  <!-- Header Banner -->
+  <img src="Banner Interaktif Nama Firmas (1).png" alt="Firmas Habibi Banner" width="100%" />
 
   <br/><br/>
 
-  <!-- Header Typing Animation -->
+  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00A2ED&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Firmas+Habibi+%F0%9F%91%8B;Software+Engineering+Student;Full-Stack+%26+Mobile+App+Developer" alt="Typing SVG" />
   </a>
@@ -14,7 +14,7 @@
     🚀 <em>Crafting clean code, interactive interfaces, and scalable applications.</em>
   </p>
 
-  <!-- Social & Contact Badges -->
+  <!-- Badges / Links -->
   <p align="center">
     <a href="https://www.frmshbi.dev/" target="_blank">
       <img src="https://img.shields.io/badge/PORTFOLIO-VISIT_WEBSITE-00a2ed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
