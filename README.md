@@ -62,7 +62,6 @@ status: Open for collaboration & freelance opportunities
 </div>
 
 ---
-
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
@@ -80,7 +79,6 @@ status: Open for collaboration & freelance opportunities
   <img src="https://streak-stats.demolab.com/?user=firmashabibii&theme=tokyonight&hide_border=true" width="97%" />
 </div>
 
----
 ---
 
 <div align="center">
