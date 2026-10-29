@@ -89,4 +89,35 @@
 
 ---
 
-<!-- Animated Footer Wave
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <!-- Dynamic Achievements / Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=firmashabibii&theme=tokyonight&no-bg=true&margin-w=4" alt="Firmas GitHub Trophies" />
+</div>
+
+---
+
+### 💼 Featured Works & Projects
+
+| Project | Tech Stack | Status / Preview |
+| :--- | :--- | :--- |
+| **Personal Portfolio Website** | Next.js, Tailwind CSS, Vercel | [Live Demo 🌐](https://www.frmshbi.dev/) |
+| **Full-Stack Web App** | React, Node.js, Supabase | In Progress 🚀 |
+| **Mobile Application** | Flutter, Firebase / MongoDB | In Progress 📱 |
+
+---
+
+### 💡 Daily Dev Humor
+
+<div align="center">
+  <!-- Dynamic Programmer Joke Card -->
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=0d1117&hideBorder=true" alt="Dev Joke" />
+</div>
+
+<br/>
+
+<!-- Animated Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:001524,50:00a2ed,100:00d2ff&height=120&section=footer" width="100%" />
+</div>
