@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="Banner Interaktif Nama Firmas (1).png" alt="Firmas Habibi Banner" width="100%" />
+  <!-- Header Animated GIF Banner -->
+  <img src="Gif%20Banner.gif" alt="Firmas Habibi Banner" width="100%" />
 
   <br/><br/>
 
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-00E676?style=for-the-badge&logoColor=white" />
   </p>
 
-  <!-- Badges / Contact -->
+  <!-- Badges / Contact Links -->
   <p align="center">
     <a href="https://www.frmshbi.dev/" target="_blank">
       <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=00D2FF" alt="Portfolio" />
@@ -89,7 +89,4 @@
 
 ---
 
-<!-- Animated Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:001524,50:00a2ed,100:00d2ff&height=120&section=footer" width="100%" />
-</div>
+<!-- Animated Footer Wave
