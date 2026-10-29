@@ -67,18 +67,20 @@ status: Open for collaboration & freelance opportunities
 
 <div align="center">
   <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=firmashabibi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=firmashabibii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmashabibi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmashabibii&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firmashabibi&theme=tokyonight&hide_border=true" width="97%" />
+  <!-- Streak Stats (Domain Resmi) -->
+  <img src="https://streak-stats.demolab.com/?user=firmashabibii&theme=tokyonight&hide_border=true" width="97%" />
 </div>
 
+---
 ---
 
 <div align="center">
