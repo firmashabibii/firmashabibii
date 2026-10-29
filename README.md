@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Animated GIF Banner -->
-  <img src="Banner%20Gif.gif" alt="Firmas Habibi Banner" width="100%" />
+  <img src="Gif%20Banner.gif" alt="Firmas Habibi Banner" width="100%" />
 
   <br/><br/>
 
@@ -89,15 +89,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <!-- Dynamic Achievements / Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=firmashabibii&theme=tokyonight&no-bg=true&margin-w=4" alt="Firmas GitHub Trophies" />
-</div>
-
----
-
 ### 💼 Featured Works & Projects
 
 | Project | Tech Stack | Status / Preview |
@@ -108,16 +99,7 @@
 
 ---
 
-### 💡 Daily Dev Humor
-
+<!-- Clean Animated Cyan Footer -->
 <div align="center">
-  <!-- Dynamic Programmer Joke Card -->
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=0d1117&hideBorder=true" alt="Dev Joke" />
-</div>
-
-<br/>
-
-<!-- Animated Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:001524,50:00a2ed,100:00d2ff&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=100&section=footer" width="100%" />
 </div>
