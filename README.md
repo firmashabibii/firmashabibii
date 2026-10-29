@@ -27,8 +27,8 @@
     </a>
   </p>
 
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=firmashabibi&label=PROFILE+VIEWS&style=flat-square&color=00a2ed" alt="Profile Views" />
+  <!-- Visitor Counter (Sudah fix username firmashabibii) -->
+  <img src="https://komarev.com/ghpvc/?username=firmashabibii&label=PROFILE+VIEWS&style=flat-square&color=00a2ed" alt="Profile Views" />
 
 </div>
 
@@ -62,25 +62,24 @@ status: Open for collaboration & freelance opportunities
 </div>
 
 ---
+
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=firmashabibii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmashabibii&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <!-- Grafik Aktivitas GitHub (Stabil & Anti-Limit) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firmashabibii&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Streak Stats (Domain Resmi) -->
+  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=firmashabibii&theme=tokyonight&hide_border=true" width="97%" />
 </div>
 
 ---
 
 <div align="center">
+  <!-- Dev Quotes Dinamis -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
