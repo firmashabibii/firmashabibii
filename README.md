@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Animated GIF Banner -->
-  <img src="Banner2.gif" alt="Firmas Habibi Banner" width="100%" />
+  <img src="Banner3.gif" alt="Firmas Habibi Banner" width="100%" />
 
   <br/><br/>
 
